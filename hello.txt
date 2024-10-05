@@ -1,1 +1,2 @@
 Hello there I am learning git and uses of github
+I am begginer
